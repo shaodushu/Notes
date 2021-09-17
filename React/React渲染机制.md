@@ -50,7 +50,7 @@ function hello() {
 
 
 
-![image-20210908231454865](./images/image-20210908231454865.png)
+![image-20210908231454865](../public/image-20210908231454865.png)
 
 
 
