@@ -1,4 +1,6 @@
-# 理解this
+### 函数上下文
+
+### 理解this
 
 **当函数独立调用的时候，在严格模式下它的this指向undefined，在非严格模式下，当this指向undefined的时候，自动指向全局对象(浏览器中就是window)**
 

@@ -1,4 +1,10 @@
-- **JavaScript是单线程的语言**
+### JS运行机制
+
+### JS事件队列
+
+### JS事件循环机制（event loop）之宏任务微任务
+
+- JavaScript是单线程的语言
 - **Event Loop是javascript的执行机制**
 
  
